@@ -8,8 +8,8 @@ This repository serves as a reference library of simplified implementations of c
 - **🧠 Language:** TypeScript
 - **📦 Package Manager:** pnpm
 - **🖥️ Runtime:** Node.js
+- **🎨 UI Library:** Chakra UI
 
 ## 🧩 Tooling
 
-- **🎨 Styling:** Tailwind CSS
 - **🔍 Spell Checking:** cspell
