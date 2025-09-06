@@ -9,7 +9,7 @@
     "lint": "biome lint .",
     "format": "biome format .",
     "check": "biome check .",
-    "fix": "biome check --apply ."
+    "fix": "biome check --write --unsafe ."
   },
   "dependencies": {
     "@chakra-ui/react": "^3.26.0",
